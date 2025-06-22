@@ -25,4 +25,4 @@
 
 ### Proyectos Destacados
 
-- [**FDS Manager**](https://github.com/galarudaf/FDSManager): Aplicación de gestión para academias de baile. Permite controlar clases, asistencia, pagos y profesores. Desarrollada con **Spring Boot (backend REST)**, **React (frontend responsive)** y **MySQL** como base de datos. Proyecto de Fin de Grado (2025).
+- [**FDS Manager**](https://github.com/galarudaf/FDS-Manager): Aplicación de gestión para academias de baile. Permite controlar clases, asistencia, pagos y profesores. Desarrollada con **Spring Boot (backend REST)**, **React (frontend responsive)** y **MySQL** como base de datos. Proyecto de Fin de Grado (2025).

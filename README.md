@@ -3,7 +3,7 @@
 
 ## ¡Hola, Soy Gala!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gala%20Ruda%20Fernández-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gala-ruda-fernandez)
+[![Linkedin](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/gala-ruda-fernandez)
 
 [![Gmail Badge](https://img.shields.io/badge/-gala.ruda.f@gmail.com-c14438?style=social&logo=Gmail&logoColor=red)](mailto:gala.ruda.f@gmail.com)
 

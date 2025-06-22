@@ -10,7 +10,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/galarudaf?label=Follow&style=social)](https://github.com/galarudaf)
 
 
-* Soy Técnica en Desarrollo de Aplicaciones Multiplataforma con formación sólida en programación, bases de datos, desarrollo web y aplicaciones móviles 
+* Soy Técnica en Desarrollo de Aplicaciones Multiplataforma con formación sólida en programación, bases de datos, desarrollo web y aplicaciones móviles. Me apasiona la tecnología y disfruto creando soluciones que aporten valor real, con código limpio, funcional y mantenible.
 * [Sevilla, España](https://www.youtube.com/watch?v=9-PCsRiv6Us)
 ### Lenguajes que domino
 
